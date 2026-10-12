@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/richard/camera_calibration/build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/include -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -isystem /usr/include/opencv4 -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/calibrate.dir/src/main.cpp.o -c /home/richard/camera_calibration/src/main.cpp",
+  "file": "/home/richard/camera_calibration/src/main.cpp",
+  "output": "CMakeFiles/calibrate.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/include -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -isystem /usr/include/opencv4 -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/calibrate.dir/src/show.cpp.o -c /home/richard/camera_calibration/src/show.cpp",
+  "file": "/home/richard/camera_calibration/src/show.cpp",
+  "output": "CMakeFiles/calibrate.dir/src/show.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/include -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -isystem /usr/include/opencv4 -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/calibrate.dir/src/homographies.cpp.o -c /home/richard/camera_calibration/src/homographies.cpp",
+  "file": "/home/richard/camera_calibration/src/homographies.cpp",
+  "output": "CMakeFiles/calibrate.dir/src/homographies.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build/_deps/spdlog-build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -g -std=c++17 -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /home/richard/camera_calibration/build/_deps/spdlog-src/src/spdlog.cpp",
+  "file": "/home/richard/camera_calibration/build/_deps/spdlog-src/src/spdlog.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build/_deps/spdlog-build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -g -std=c++17 -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /home/richard/camera_calibration/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "file": "/home/richard/camera_calibration/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build/_deps/spdlog-build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -g -std=c++17 -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /home/richard/camera_calibration/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "file": "/home/richard/camera_calibration/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build/_deps/spdlog-build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -g -std=c++17 -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /home/richard/camera_calibration/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "file": "/home/richard/camera_calibration/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build/_deps/spdlog-build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -g -std=c++17 -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /home/richard/camera_calibration/build/_deps/spdlog-src/src/async.cpp",
+  "file": "/home/richard/camera_calibration/build/_deps/spdlog-src/src/async.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build/_deps/spdlog-build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -g -std=c++17 -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /home/richard/camera_calibration/build/_deps/spdlog-src/src/cfg.cpp",
+  "file": "/home/richard/camera_calibration/build/_deps/spdlog-src/src/cfg.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o"
+},
+{
+  "directory": "/home/richard/camera_calibration/build/_deps/spdlog-build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/richard/camera_calibration/build/_deps/spdlog-src/include -g -std=c++17 -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /home/richard/camera_calibration/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "file": "/home/richard/camera_calibration/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o"
+}
+]
