@@ -1,6 +1,0 @@
-/home/richard/camera_calibration/build/CMakeFiles/calibrate.dir
-/home/richard/camera_calibration/build/CMakeFiles/edit_cache.dir
-/home/richard/camera_calibration/build/CMakeFiles/rebuild_cache.dir
-/home/richard/camera_calibration/build/_deps/spdlog-build/CMakeFiles/spdlog.dir
-/home/richard/camera_calibration/build/_deps/spdlog-build/CMakeFiles/edit_cache.dir
-/home/richard/camera_calibration/build/_deps/spdlog-build/CMakeFiles/rebuild_cache.dir
